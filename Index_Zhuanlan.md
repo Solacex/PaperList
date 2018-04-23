@@ -25,7 +25,7 @@
 | Hybrid  Camera Pose Estimation                               | no           |                                       |             |
 | Self-supervised  Multi-level Face Model Learning for Monocular Reconstruction at over 250Hz | no           |                                       |             |
 | CodeSLAM  --- Learning a Compact, Optimisable Representation for Dense Visual SLAM | no           |                                       |             |
-| 3D-RCNN:  Instance-level 3D Scene Understanding via Render-and-Compare | no           |                                       |             |
+| 3D-RCNN:  Instance-level 3D Scene Understanding via Render-and-Compare | no           |                                       |             |
 | Fast  and Furious: Real Time End-to-End 3D Detection, Tracking and Motion  Forecasting with a Single Convolutional Net | no           |                                       |             |
 | Maximum  Classifier Discrepancy for Unsupervised Domain Adaptation | no           |                                       |             |
 | Left-Right  Comparative Recurrent Model for Stereo Matching  | no           |                                       |             |
@@ -53,7 +53,7 @@
 | Improved  Fusion of Visual and Language Representations by Dense Symmetric Co-Attention  for Visual Question Answering | soon         |                                       |             |
 | FlipDial:  A Generative Model for Two-Way Visual Dialogue    | soon         |                                       |             |
 | Are You  Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning | soon         |                                       |             |
-| Discriminative  Learning of Latent Features for Zero-Shot Recognition | soon         |                                       |             |
+| Discriminative  Learning of Latent Features for Zero-Shot Recognition | finished         | https://zhuanlan.zhihu.com/p/36030705  |             |
 | Synthesizing  Images of Humans in Unseen Poses               | soon         |                                       |             |
 | Semi-parametric  Image Synthesis                             | soon         |                                       |             |
 | Surface  Networks                                            |              |                                       |             |

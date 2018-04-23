@@ -9,8 +9,8 @@
 | An  Analysis of Scale Invariance in Object Detection - SNIP  | finished     | https://zhuanlan.zhihu.com/p/35697040 |             |
 | Wasserstein  Introspective Neural Networks                   | finished     | https://zhuanlan.zhihu.com/p/35699851 |             |
 | Taskonomy:  Disentangling Task Transfer Learning             | finished     | https://zhuanlan.zhihu.com/p/35833517 |             |
-| Im2Pano3D:  Extrapolating 360 Structure and Semantics Beyond the Field of View | finished     | https://zhuanlan.zhihu.com/p/35702085 |             |
-| Im2Flow:  Motion Hallucination from Static Images for Action Recognition | finished     |                                       |             |
+| Im2Pano3D:  Extrapolating 360 Structure and Semantics Beyond the Field of View | no     | |             |
+| Im2Flow:  Motion Hallucination from Static Images for Action Recognition | finished     | https://zhuanlan.zhihu.com/p/35702085|             |
 | Actor  and Action Video Segmentation from a Sentence         | finished     | https://zhuanlan.zhihu.com/p/35718996 |             |
 | Bottom-Up  and Top-Down Attention for Image Captioning and Visual Question Answering | finished     | https://zhuanlan.zhihu.com/p/35778768 |             |
 | Squeeze-and-Excitation  Networks                             | finished     | https://zhuanlan.zhihu.com/p/35704334 |             |

@@ -22,6 +22,15 @@
 | Disentangled  Person Image Generation                        | finished     | https://zhuanlan.zhihu.com/p/35626735 |             |
 | Person  Transfer GAN to Bridge Domain Gap for Person Re-Identification | finished     | https://zhuanlan.zhihu.com/p/35626478 |             |
 | Unsupervised  Person Image Synthesis in Arbitrary Poses      | finshed      | https://zhuanlan.zhihu.com/p/35626886 |             |
+| Discriminative  Learning of Latent Features for Zero-Shot Recognition | finished         | https://zhuanlan.zhihu.com/p/36030705  |             |
+| Relation  Networks for Object Detection                      | finished         | https://zhuanlan.zhihu.com/p/36033824 |             |
+| Finding  It": Weakly-Supervised Reference-Aware Visual Grounding in Instructional  Video" | soon         |                                       |             |
+| Improved  Fusion of Visual and Language Representations by Dense Symmetric Co-Attention  for Visual Question Answering | soon         |                                       |             |
+| FlipDial:  A Generative Model for Two-Way Visual Dialogue    | soon         |                                       |             |
+| Are You  Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning | soon         |                                       |             |
+| Synthesizing  Images of Humans in Unseen Poses               | soon         |                                       |             |
+| Semi-parametric  Image Synthesis                             | soon         |                                       |             |
+
 | Hybrid  Camera Pose Estimation                               | no           |                                       |             |
 | Self-supervised  Multi-level Face Model Learning for Monocular Reconstruction at over 250Hz | no           |                                       |             |
 | CodeSLAM  --- Learning a Compact, Optimisable Representation for Dense Visual SLAM | no           |                                       |             |
@@ -47,15 +56,7 @@
 | Multi-Cell  Classification by Convolutional Dictionary Learning with Class Proportion  Priors | not released |                                       |             |
 | SPLATNet:  Sparse Lattice Networks for Point Cloud Processing | read         |                                       |             |
 | Learning  by Asking Questions                                | soon         |                                       |             |
-| Relation  Networks for Object Detection                      | finished         | https://zhuanlan.zhihu.com/p/36033824 |             |
 | Efficient  Optimization for Rank-based Loss Functions        | soon         |                                       |             |
-| Finding  It": Weakly-Supervised Reference-Aware Visual Grounding in Instructional  Video" | soon         |                                       |             |
-| Improved  Fusion of Visual and Language Representations by Dense Symmetric Co-Attention  for Visual Question Answering | soon         |                                       |             |
-| FlipDial:  A Generative Model for Two-Way Visual Dialogue    | soon         |                                       |             |
-| Are You  Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning | soon         |                                       |             |
-| Discriminative  Learning of Latent Features for Zero-Shot Recognition | finished         | https://zhuanlan.zhihu.com/p/36030705  |             |
-| Synthesizing  Images of Humans in Unseen Poses               | soon         |                                       |             |
-| Semi-parametric  Image Synthesis                             | soon         |                                       |             |
 | Surface  Networks                                            |              |                                       |             |
 | Learning  to Find Good Correspondences                       |              |                                       |             |
 | OATM:  Occlusion Aware Template Matching by Consensus Set Maximization |              |                                       |             |

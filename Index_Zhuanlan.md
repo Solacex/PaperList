@@ -47,7 +47,7 @@
 | Multi-Cell  Classification by Convolutional Dictionary Learning with Class Proportion  Priors | not released |                                       |             |
 | SPLATNet:  Sparse Lattice Networks for Point Cloud Processing | read         |                                       |             |
 | Learning  by Asking Questions                                | soon         |                                       |             |
-| Relation  Networks for Object Detection                      | soon         | https://zhuanlan.zhihu.com/p/36033824 |             |
+| Relation  Networks for Object Detection                      | finished         | https://zhuanlan.zhihu.com/p/36033824 |             |
 | Efficient  Optimization for Rank-based Loss Functions        | soon         |                                       |             |
 | Finding  It": Weakly-Supervised Reference-Aware Visual Grounding in Instructional  Video" | soon         |                                       |             |
 | Improved  Fusion of Visual and Language Representations by Dense Symmetric Co-Attention  for Visual Question Answering | soon         |                                       |             |

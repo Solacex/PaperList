@@ -30,7 +30,7 @@
 | FlipDial:  A Generative Model for Two-Way Visual Dialogue    | soon?        |                                                              |
 | Are You  Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning | soon?        |                                                              |
 | Synthesizing  Images of Humans in Unseen Poses               | soon         |                                                              |
-| Semi-parametric  Image Synthesis                             | soon         |                                                              |
+| Semi-parametric  Image Synthesis                             | finished         |  https://zhuanlan.zhihu.com/p/36073450                  |
 | Finding  Tiny Faces in the Wild with Generative Adversarial Network | not released |                                                              |
 | MakeupGAN:  Makeup Transfer via Cycle-Consistent Adversarial Networks | not released |                                                              |
 | A  Globally Optimal Solution to the Non-Minimal Relative Pose Problem | not released |                                                              |

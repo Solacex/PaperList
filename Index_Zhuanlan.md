@@ -40,21 +40,21 @@
 | Ordinal  Depth Supervision for 3D Human Pose Estimation      | not released |                                                              |
 | Trapping  Light for Time of Flight                           | not released |                                                              |
 | Im2Pano3D:  Extrapolating 360 Structure and Semantics Beyond the Field of View | no           | predict of 3D structure and a probability distribution of semantic labels for a full 360 panoramic view of an indoor scene |
-| Hybrid  Camera Pose Estimation                               | no           |                                                              |
-| Self-supervised  Multi-level Face Model Learning for Monocular Reconstruction at over 250Hz | no           |                                                              |
-| CodeSLAM  --- Learning a Compact, Optimisable Representation for Dense Visual SLAM | no           |                                                              |
-| 3D-RCNN:  Instance-level 3D Scene Understanding via Render-and-Compare | no           |                                                              |
-| Fast  and Furious: Real Time End-to-End 3D Detection, Tracking and Motion  Forecasting with a Single Convolutional Net | no           |                                                              |
-| Maximum  Classifier Discrepancy for Unsupervised Domain Adaptation | no           |                                                              |
-| Left-Right  Comparative Recurrent Model for Stereo Matching  | no           |                                                              |
+| Hybrid  Camera Pose Estimation                               | no           | solve the pose estimation problemof calibrated pinhole and generalized cameras by 2D-3D and 2D-2D |
+| Self-supervised  Multi-level Face Model Learning for Monocular Reconstruction at over 250Hz | no           | Monocular Reconstruction                                     |
+| CodeSLAM  --- Learning a Compact, Optimisable Representation for Dense Visual SLAM | no           | SLAM                                                         |
+| 3D-RCNN:  Instance-level 3D Scene Understanding via Render-and-Compare | no           | 3D scene understanding                                       |
+| Fast  and Furious: Real Time End-to-End 3D Detection, Tracking and Motion  Forecasting with a Single Convolutional Net | no           | Real Time End-to-End 3D Detection, Tracking and Motion  Forecasting |
+| Maximum  Classifier Discrepancy for Unsupervised Domain Adaptation | no           | ?                                                            |
+| Left-Right  Comparative Recurrent Model for Stereo Matching  | no           | Real Time End-to-End 3D Detection, Tracking and Motion  Forecasting |
 | Polarimetric  Dense Monocular SLAM                           | no           | SLAM                                                         |
 | Illuminant  Spectra-based Source Separation Using Flash Photography | no           | leverage a flash/no-flash image pair to analyze and edit scene illuminants based on their spectral differences |
-| DoubleFusion:  Real-time Capture of Human Performance with Inner Body Shape from a Single  Depth Sensor | no           |                                                              |
+| DoubleFusion:  Real-time Capture of Human Performance with Inner Body Shape from a Single  Depth Sensor | no           | a new real-time system that combines volumetric dynamic reconstruction with data driven template fitting |
 | Photometric  Stereo in Participating Media Considering Shape-Dependent Forward Scatter | no           | propose a photometric stereo method for participating media  |
-| Total  Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies | no           |                                                              |
-| MapNet:  An Allocentric Spatial Memory for Mapping Environments | no           |                                                              |
-| Rotation  Averaging and Strong Duality                       | not read     |                                                              |
-| Context  Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation | not read     |                                                              |
+| Total  Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies | no           | 3D Deformation Model                                         |
+| MapNet:  An Allocentric Spatial Memory for Mapping Environments | no           | ?                                                            |
+| Rotation  Averaging and Strong Duality                       |              |                                                              |
+| Context  Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation |              |                                                              |
 | SPLATNet:  Sparse Lattice Networks for Point Cloud Processing | no           | processing points cloud                                      |
 | Surface  Networks                                            | no           | representations for 3D triangle meshes                       |
 | Learning  to Find Good Correspondences                       | no           | learn to find good correspondences for wide-baseline stereo  |

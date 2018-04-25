@@ -29,7 +29,7 @@
 | Improved  Fusion of Visual and Language Representations by Dense Symmetric Co-Attention  for Visual Question Answering | soon?        |                                                              |
 | FlipDial:  A Generative Model for Two-Way Visual Dialogue    | soon?        |                                                              |
 | Are You  Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning | soon?        |                                                              |
-| Synthesizing  Images of Humans in Unseen Poses               | soon         |   https://zhuanlan.zhihu.com/p/36076119                   |
+| Synthesizing  Images of Humans in Unseen Poses               | finished         |   https://zhuanlan.zhihu.com/p/36076119                   |
 | Semi-parametric  Image Synthesis                             | finished         |  https://zhuanlan.zhihu.com/p/36073450                  |
 | Finding  Tiny Faces in the Wild with Generative Adversarial Network | not released |                                                              |
 | MakeupGAN:  Makeup Transfer via Cycle-Consistent Adversarial Networks | not released |                                                              |
